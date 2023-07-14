@@ -1,0 +1,40 @@
+#t_rex:hover{
+    box-shadow: 0px 0px 24px 5px rgb(0, 140, 255);
+    transition: 0.5s;
+
+}
+
+#therezinossauro:hover{
+    box-shadow: 0px 0px 24px 5px rgb(187, 0, 255);
+    transition: 0.5s;  
+}
+
+#dilofossauro:hover{
+    box-shadow: 0px 0px 24px 5px rgb(4, 0, 255);
+    transition: 0.5s;  
+}
+
+#indominus_rex:hover{
+    box-shadow: 0px 0px 24px 5px rgb(255, 255, 255);
+    transition: 0.5s;  
+}
+
+#espinossauro:hover{
+    box-shadow: 0px 0px 24px 5px rgb(0, 255, 17);
+    transition: 0.5s;     
+}
+
+#indoraptor:hover{
+    box-shadow: 10px 10px 24px 5px rgb(0, 0, 0);
+    transition: 0.5s;  
+}
+
+#blue:hover{
+    box-shadow: 0px 0px 24px 5px rgb(255, 170, 0);
+    transition: 0.5s;    
+}
+
+#giganotossauro:hover{
+    box-shadow: 0px 0px 24px 5px rgb(255, 17, 0);
+    transition: 0.5s;   
+}
